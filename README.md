@@ -16,7 +16,7 @@ And a frontend hosted on Netlify.
 And since I'm a data scientist, let's also have a Jupyter notebook or two.
 Which you can plug into the database to interrogate it however you like.
 
-So backend, frontend, data-science notebooks. 
+So [backend](https://github.com/peterprescott/cheapskate-backend), [frontend](https://github.com/peterprescott/cheapskate-frontend), [data-science notebooks](https://github.com/peterprescott/cheapskate-data-science-notebooks). 
 These three should each have their own Git repos.
 And then in this fullstack repo we treat them all as submodules.
 And then use `docker compose` to get them all running locally.
